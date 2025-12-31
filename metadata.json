@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Kanban Pro",
+  "description": "A high-performance Kanban board for project management featuring AI-powered task generation and subtask suggestions using Gemini 3.",
+  "requestFramePermissions": []
+}
